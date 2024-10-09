@@ -1,0 +1,7 @@
+.box{
+    height: 500px;
+    width: 500px;
+    border: 1px solid;
+    background-image: url(https://media-maa2-1.cdn.whatsapp.net/v/t61.24694-24/454852824_1507186819905757_1843694830154875237_n.jpg?ccb=11-4&oh=01_Q5AaIA4kajNaw3oM3w9R0zElWe_QR-TjJYZIqhzEXB6AeRbF&oe=670CBC97&_nc_sid=5e03e0&_nc_cat=103);
+    background-size: cover;
+}
